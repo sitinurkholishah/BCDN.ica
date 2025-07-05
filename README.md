@@ -1,8 +1,8 @@
 # PROGRAM KASIR HANDAK DIMSUM
-Program ini adalah program kasir sederhana berbasis bahasa c++ untuk memudahkan penjualan dimsum.
+Program ini adalah program kasir sederhana berbasis c++ untuk memudahkan penjualan dimsum.
 
 ## TIPE DATA & VARIABEL YANG DIGUNAKAN
-string nama, varian;
+string nama, varian; <br>
 int harga, porsi, total;
 
 ## FITUR
@@ -12,21 +12,23 @@ int harga, porsi, total;
 4. Menampilkan struk pembelian
 
 ## CARA KERJA PROGRAM
-1. ![alt text](image-3.png)
-   Program akan menampilkan daftar harga varian dimsum
-   ![output](image.png)
+1. Program akan menampilkan daftar harga varian dimsum<br>
+   ![alt text](image-3.png)
    
-2.![alt text](image-4.png) 
-   User diminta mengisi data:
-   Nama Pembeli:
-   Varian Dimsum:
-   Porsi Dimsum:
-   Harga Dimsum:
-   ![output](image-1.png)
+2. User diminta mengisi data: <br>
+   Nama Pembeli: <br>
+   Varian Dimsum:<br>
+   Porsi Dimsum: <br>
+   Harga Dimsum: <br>
+   ![alt text](image-4.png)
    
-3. Program akan menghitung harga total otomatis dengan:
+3. Program akan menghitung harga total otomatis dengan:<br>
    total = harga * porsi 
 
-4. ![alt text](image-5.png)
-   Program akan menampilkan struk pembelian
-   ![output](image-2.png)
+4. Program akan menampilkan struk pembelian <br>
+   ![alt text](image-5.png)
+
+## OUTPUT
+1. ![alt text](image.png)
+2. ![alt text](image-1.png)
+3. ![alt text](image-2.png)
