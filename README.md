@@ -7,7 +7,7 @@ int harga, porsi, total;
 
 ## FITUR
 1. Menampilkan varian dan harga menu
-2. Meminta input dari pembeli (nama, varian, porsi)
+2. Meminta input dari pembeli (nama, varian, porsi, harga)
 3. Menghitung total harga otomatis
 4. Menampilkan struk pembelian
 
